@@ -4,7 +4,7 @@ import math
 from termcolor import colored
 
 POPLATION_SIZE = 200
-TARGET = "Jai's First AI"
+TARGET = "Hello World"
 MUTATION_RATE = 0.01
 MAX_GEN = 700
 
