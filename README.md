@@ -1,2 +1,2 @@
-# AI
-Doing as much as I can, while I can 
+# 1. The Infinite Monkey problem
+Genetic Algorithm Solution. It's my Hello World of this space 
